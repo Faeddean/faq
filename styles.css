@@ -40,13 +40,8 @@ body {
     }
 }
 
-#box1, #box2 {
+#box {
     padding: 25px 0;
-}
-
-#box1 {
-    border-bottom-width: 2px;
-    border-color: #D2D5DA;
 }
 
 #pregunta {
